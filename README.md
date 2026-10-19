@@ -1,5 +1,7 @@
 # Starwatch Background
 
+> **Superseded.** This plugin is now [omarchy-living-background](https://github.com/prostratepossum/omarchy-living-background), part of [Omarchy Living Themes](https://github.com/prostratepossum/omarchy-living-themes). It has the same Starwatch scene plus Moonlit Hearth, and switches automatically with your theme. This repository is archived and gets no further updates.
+
 A live wallpaper for Omarchy. Stars in your wallpaper twinkle, fireflies drift and pulse in the grass, and now and then a shooting star crosses the sky.
 
 ![preview](preview.jpg)
